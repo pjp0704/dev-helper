@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@tsconfig/node14': ^1.0.1
+
+devDependencies:
+  '@tsconfig/node14': 1.0.1
+
+packages:
+
+  /@tsconfig/node14/1.0.1:
+    resolution: {integrity: sha512-509r2+yARFfHHE7T6Puu2jjkoycftovhXRqW328PDXTVGKihlb1P8Z9mMZH04ebyajfRY7dedfGynlrFHJUQCg==}
+    dev: true

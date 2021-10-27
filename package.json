@@ -1,0 +1,24 @@
+{
+  "name": "@pjp0704/dev-helper",
+  "version": "1.0.0",
+  "description": "A helper that automates the setting of TypeScript and development tools",
+  "bin": {
+    "dev-helper": "dist/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjp0704/dev-helper.git"
+  },
+  "author": "https://github.com/pjp0704",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjp0704/dev-helper/issues"
+  },
+  "homepage": "https://github.com/pjp0704/dev-helper#readme",
+  "devDependencies": {
+    "@tsconfig/node14": "^1.0.1"
+  }
+}
